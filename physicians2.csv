@@ -1,0 +1,19 @@
+physicianID,title,name,online,rating,opinionCount,lastCommentDate,specializations,link
+100001,,Joanna Kwiatkowska,0,,0,,Dietetyk,https://www.znanylekarz.pl/joanna-kwiatkowska-6/dietetyk/wroclaw
+100002,mgr,Joanna Kubińska-Warda,0,5,38 opinii,2022-08-05,Fizjoterapeuta,https://www.znanylekarz.pl/joanna-kubinska-warda/fizjoterapeuta/torun
+100003,mgr,Radosław Rutkowski,0,5,5 opinii,2021-07-17,Fizjoterapeuta,https://www.znanylekarz.pl/radoslaw-rutkowski-2/fizjoterapeuta/bydgoszcz
+100004,mgr,Adrianna Czech,0,5,11 opinii,2022-11-08,Fizjoterapeuta,https://www.znanylekarz.pl/adrianna-czech/fizjoterapeuta/wroclaw
+100005,prof. dr hab. n. med.,Włodzimierz Sawicki,0,5,72 opinie,2021-08-17,Ginekolog,https://www.znanylekarz.pl/wlodzimierz-sawicki/ginekolog/warszawa
+100006,lek.,Jacek Jackiewicz,0,4,49 opinii,2022-10-21,Ginekolog,https://www.znanylekarz.pl/jacek-jackiewicz-2/ginekolog/katowice
+100007,lek.,Dorota Osińska,0,5,5 opinii,2017-11-27,Internista,https://www.znanylekarz.pl/dorota-osinska/internista-lekarz-rodzinny-pediatra/piastow
+100007,lek.,Dorota Osińska,0,5,5 opinii,2017-11-27,Lekarz rodzinny,https://www.znanylekarz.pl/dorota-osinska/internista-lekarz-rodzinny-pediatra/piastow
+100007,lek.,Dorota Osińska,0,5,5 opinii,2017-11-27,Pediatra,https://www.znanylekarz.pl/dorota-osinska/internista-lekarz-rodzinny-pediatra/piastow
+100008,lek.,Tomasz Święcicki,0,,0,,Kardiolog,https://www.znanylekarz.pl/tomasz-swiecicki-2/kardiolog/slupca
+100009,dr n. med.,Wojciech Kurnicki,0,5,14 opinii,2016-09-05,Laryngolog,https://www.znanylekarz.pl/wojciech-kurnicki/laryngolog/bialystok
+100010,lek.,Oskar Leja,0,5,1 opinia,2022-12-02,Specjalista medycyny estetycznej,https://www.znanylekarz.pl/oskar-leja/lekarz-medycyny-estetycznej-lekarz-w-trakcie-specjalizacji-lekarz-rodzinny/krakow
+100010,lek.,Oskar Leja,0,5,1 opinia,2022-12-02,Lekarz w trakcie specjalizacji,https://www.znanylekarz.pl/oskar-leja/lekarz-medycyny-estetycznej-lekarz-w-trakcie-specjalizacji-lekarz-rodzinny/krakow
+100010,lek.,Oskar Leja,0,5,1 opinia,2022-12-02,Lekarz rodzinny,https://www.znanylekarz.pl/oskar-leja/lekarz-medycyny-estetycznej-lekarz-w-trakcie-specjalizacji-lekarz-rodzinny/krakow
+100011,lek.,Piotr Noworolnik,0,5,36 opinii,2022-12-02,Ortopeda,https://www.znanylekarz.pl/piotr-noworolnik/ortopeda/przezmierowo
+100012,lek.,Elżbieta Kostka,0,5,6 opinii,2015-02-23,Pediatra,https://www.znanylekarz.pl/elzbieta-kostka/pediatra/chrzanow
+100013,dr n. med.,Karolina Mazurek,0,5,4 opinie,2022-05-10,Stomatolog,https://www.znanylekarz.pl/karolina-mazurek/stomatolog-protetyk/warszawa
+100013,dr n. med.,Karolina Mazurek,0,5,4 opinie,2022-05-10,Protetyk,https://www.znanylekarz.pl/karolina-mazurek/stomatolog-protetyk/warszawa
